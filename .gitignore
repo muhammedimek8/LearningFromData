@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# IMDb raw dataset
+aclImdb/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
